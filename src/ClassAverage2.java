@@ -25,5 +25,7 @@ public class ClassAverage2
 		else {
 			System.out.println("No grades were entered");
 		}
+		
+		input.close();
 	}
 }
